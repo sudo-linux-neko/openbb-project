@@ -1,0 +1,20 @@
+{
+  "model": "heston",
+  "paths": 10000000,
+  "steps": 2500,
+  "total_steps": 25000000000,
+  "seed": 42,
+  "threads": 12,
+  "s0": 100,
+  "mean_terminal": 240.128,
+  "stdev_terminal": 76.8852,
+  "p5": 133.687,
+  "p50": 230.408,
+  "p95": 379.113,
+  "VaR95": -0.336871,
+  "CVaR95": -0.147879,
+  "P_loss": 0.0084269,
+  "maxDD_mean": 0.202843,
+  "elapsed_s": 341.743,
+  "steps_per_sec": 7.31544e+07
+}

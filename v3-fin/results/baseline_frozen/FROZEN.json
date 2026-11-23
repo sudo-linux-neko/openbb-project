@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-09-12T14:39:19Z",
+  "files": {
+    "config.json": "4f7aeaac6017",
+    "compare.csv": "d0323d4834c2",
+    "equity.csv": "266cf280fb90",
+    "REPORT.md": "9f8ff43e080a"
+  },
+  "note": "Baseline immutable. Hedge variants compared AGAINST this, never re-tuned."
+}

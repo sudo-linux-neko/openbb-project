@@ -1,0 +1,11 @@
+{
+  "ret": {
+    "Lstar": 4,
+    "suggested_b": 10
+  },
+  "absret": {
+    "Lstar": null,
+    "suggested_b": 20
+  },
+  "T_cuberoot_rule": 30.0
+}

@@ -1,0 +1,20 @@
+{
+  "model": "regime",
+  "paths": 50000,
+  "steps": 2500,
+  "total_steps": 125000000,
+  "seed": 42,
+  "threads": 12,
+  "s0": 100,
+  "mean_terminal": 240.162,
+  "stdev_terminal": 77.7293,
+  "p5": 136.498,
+  "p50": 228.306,
+  "p95": 384.15,
+  "VaR95": -0.364979,
+  "CVaR95": -0.207441,
+  "P_loss": 0.0036,
+  "maxDD_mean": 0.177222,
+  "elapsed_s": 0.772964,
+  "steps_per_sec": 1.61715e+08
+}

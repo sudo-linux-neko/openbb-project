@@ -1,0 +1,20 @@
+{
+  "model": "gbm",
+  "paths": 10000000,
+  "steps": 2500,
+  "total_steps": 25000000000,
+  "seed": 42,
+  "threads": 12,
+  "s0": 100,
+  "mean_terminal": 240.154,
+  "stdev_terminal": 77.5151,
+  "p5": 136.213,
+  "p50": 228.519,
+  "p95": 383.576,
+  "VaR95": -0.362131,
+  "CVaR95": -0.202042,
+  "P_loss": 0.0043125,
+  "maxDD_mean": 0.175611,
+  "elapsed_s": 155.191,
+  "steps_per_sec": 1.61092e+08
+}

@@ -1,0 +1,20 @@
+{
+  "model": "merton",
+  "paths": 50000,
+  "steps": 2500,
+  "total_steps": 125000000,
+  "seed": 42,
+  "threads": 12,
+  "s0": 100,
+  "mean_terminal": 240.54,
+  "stdev_terminal": 79.1522,
+  "p5": 134.405,
+  "p50": 228.811,
+  "p95": 387.967,
+  "VaR95": -0.34405,
+  "CVaR95": -0.178269,
+  "P_loss": 0.00592,
+  "maxDD_mean": 0.182152,
+  "elapsed_s": 0.874252,
+  "steps_per_sec": 1.42979e+08
+}
